@@ -1,9 +1,13 @@
+//https://habr.com/ru/post/421411/
+
 package modex
 
 import (
 	"errors"
 	"fmt"
 )
+
+import "fmt"
 
 // Hi returns a friendly greeting in language lang
 func Hi(name, lang string) (string, error) {
