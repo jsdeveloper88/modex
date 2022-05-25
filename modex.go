@@ -1,5 +1,7 @@
 package modex
 
+//https://habr.com/ru/post/421411/
+
 import "fmt"
 
 // Hi returns a friendly greeting
